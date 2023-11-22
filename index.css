@@ -779,6 +779,15 @@
 .home-nav53:hover {
   background: cadetblue;
 }
+.home-nav58 {
+  color: #000000;
+  transition: 0.3s;
+  margin-left: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.home-nav58:hover {
+  background: cadetblue;
+}
 .home-separator {
   flex: 0 0 auto;
   width: 100%;
