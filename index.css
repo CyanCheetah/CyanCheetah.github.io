@@ -529,52 +529,6 @@
   border-width: 2px;
   justify-content: center;
 }
-.home-gallery {
-  flex: 0 0 auto;
-  width: 100%;
-  height: auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.home-gallery1 {
-  gap: var(--dl-space-space-oneandhalfunits);
-  width: 100%;
-  display: flex;
-  max-width: var(--dl-size-size-maxwidth);
-  align-items: center;
-  padding-top: var(--dl-space-space-fourunits);
-  padding-left: var(--dl-space-space-threeunits);
-  padding-right: var(--dl-space-space-threeunits);
-  flex-direction: column;
-  padding-bottom: var(--dl-space-space-fourunits);
-}
-.home-gallery-heading {
-  text-align: center;
-  font-family: "Raleway";
-  line-height: 1.6;
-}
-.home-gallery-sub-heading {
-  color: rgb(153, 153, 153);
-  text-align: center;
-  line-height: 1.6;
-  padding-left: var(--dl-space-space-threeunits);
-  padding-right: var(--dl-space-space-threeunits);
-}
-.home-li {
-  font-size: 48px;
-  font-family: "Lato";
-}
-.home-text3 {
-  font-size: 32px;
-}
-.home-li1 {
-  font-size: 48px;
-  font-family: "Lato";
-}
-.home-text4 {
-  font-size: 32px;
-}
 .home-banner {
   flex: 0 0 auto;
   width: 100%;
@@ -828,7 +782,7 @@
   color: #fff;
   background-color: #595959;
 }
-.home-text5 {
+.home-text3 {
   width: 100%;
   cursor: pointer;
   display: flex;
@@ -860,7 +814,7 @@
   color: #fff;
   background-color: #595959;
 }
-.home-text6 {
+.home-text4 {
   width: 100%;
   cursor: pointer;
   display: flex;
@@ -892,7 +846,7 @@
   color: #fff;
   background-color: #595959;
 }
-.home-text7 {
+.home-text5 {
   width: 100%;
   cursor: pointer;
   display: flex;
@@ -917,9 +871,6 @@
     text-align: center;
     padding-left: var(--dl-space-space-threeunits);
     padding-right: var(--dl-space-space-threeunits);
-  }
-  .home-gallery-sub-heading {
-    text-align: center;
   }
   .home-banner-sub-heading {
     max-width: 100%;
@@ -968,14 +919,6 @@
     padding-right: var(--dl-space-space-twounits);
   }
   .home-hero-sub-heading {
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
-  }
-  .home-gallery1 {
-    padding-left: var(--dl-space-space-twounits);
-    padding-right: var(--dl-space-space-twounits);
-  }
-  .home-gallery-sub-heading {
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
   }
@@ -1038,9 +981,6 @@
   .home-hero-button2 {
     margin-top: var(--dl-space-space-unit);
     margin-left: 0px;
-  }
-  .home-gallery1 {
-    padding: var(--dl-space-space-unit);
   }
   .home-banner1 {
     padding-top: var(--dl-space-space-twounits);
