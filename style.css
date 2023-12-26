@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "Buckin' Bronc";
+  font-style: normal;
+  font-format: truetype;
+  font-weight: 400;
+  src: url("public/fonts/buckinbronc.ttf") ;
+}
 :root {
   --dl-color-gray-500: #595959;
   --dl-color-gray-700: #999999;

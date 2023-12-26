@@ -377,13 +377,18 @@
   border-width: 1px;
   padding-left: var(--dl-space-space-halfunit);
   padding-right: var(--dl-space-space-halfunit);
-  flex-direction: row;
+  flex-direction: column;
   padding-bottom: var(--dl-space-space-halfunit);
   justify-content: center;
   background-color: #ffffff;
 }
 .about-text4 {
   font-size: 32px;
+}
+.about-text5 {
+  font-size: 25px;
+  font-family: "Lato";
+  padding-top: var(--dl-space-space-threeunits);
 }
 .about-hero3 {
   width: 100%;
