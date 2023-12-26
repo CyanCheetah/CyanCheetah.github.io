@@ -504,6 +504,15 @@
 .email-nav53:hover {
   background: cadetblue;
 }
+.email-nav54 {
+  color: rgb(0, 0, 0);
+  transition: 0.3s;
+  margin-left: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.email-nav54:hover {
+  background: cadetblue;
+}
 .email-separator {
   flex: 0 0 auto;
   width: 100%;
